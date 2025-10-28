@@ -18,15 +18,28 @@ app.use(express.urlencoded({ extended: false }));
 
 // Routes
 app.use('/api/auth', require('./routes/authRoutes'));
+app.use('/api/orders', require('./routes/orderRoutes'));
 
 // Basic routes
 app.get('/', (req, res) => {
   res.json({ 
-    message: 'Authentication API is running!',
+    message: 'SaaS Dashboard Backend API is running!',
     endpoints: {
-      signup: 'POST /api/auth/signup',
-      signin: 'POST /api/auth/signin',
-      getProfile: 'GET /api/auth/me (requires token)'
+      auth: {
+        signup: 'POST /api/auth/signup',
+        signin: 'POST /api/auth/signin',
+        getProfile: 'GET /api/auth/me (requires token)'
+      },
+      orders: {
+        getAllOrders: 'GET /api/orders',
+        getOrderById: 'GET /api/orders/:id',
+        getOrderByTrackingId: 'GET /api/orders/track/:trackingId',
+        createOrder: 'POST /api/orders',
+        updateOrder: 'PUT /api/orders/:id',
+        updateOrderAction: 'PATCH /api/orders/:id/action',
+        updateOrderStatus: 'PATCH /api/orders/:id/status',
+        deleteOrder: 'DELETE /api/orders/:id'
+      }
     }
   });
 });
